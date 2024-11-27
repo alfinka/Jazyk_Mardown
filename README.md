@@ -23,3 +23,6 @@ Heading level 1
 ===============
 Heading level 2
 ---------------
+
+**Dnes** je pekný deň  
+Aj zajtra bude _pekný_ deň
