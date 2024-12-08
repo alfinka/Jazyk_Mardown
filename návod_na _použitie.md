@@ -1,4 +1,4 @@
-Toto je návod...na Code Blocks
+Toto je návod...na Code Blocks, musia byť tri backticksy ```
 
 ```python
 print("Ahoj, Python!")  
