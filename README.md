@@ -17,8 +17,10 @@ Repo pre tréning jazyka Markdown
 ### Nadpis H3 - Nadpis tretej urovne - podpodnadpis
 
 ### Nadpis H3 - Nadpis tretej urovne - podpodnadpis
+
 Heading level 1
 ===============
+
 Heading level 2
 ---------------
 
